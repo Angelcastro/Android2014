@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QueHacerAqui</string>
+    <string name="title_person_detail">Detalles Rutas</string>
+    <string name="nombre">Nombre</string>
+    <string name="alias">Alias</string>
+    <string name="kilometros">Kilometros</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="localidad">Localidad</string>
+    <string name="provincia">Provincia</string>
+    <string name="pais">Pais</string>
+    <string name="comentario">Comentario</string>
+
+</resources>
